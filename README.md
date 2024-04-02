@@ -17,3 +17,5 @@ to perform instruction fine-tuning on the Alpaca instruction datset (currently a
 ### Discussion:
 
 **Fine tuning discussion**
+
+![Results](assets/results.png "Default evaluation on instruction tuned data with addtional evaluations performed on varying hyperparameters")
