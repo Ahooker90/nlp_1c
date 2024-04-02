@@ -18,7 +18,7 @@ to perform instruction fine-tuning on the Alpaca instruction datset (currently a
 
 **Fine tuning discussion**
 The initial results of fine-tuning do not indicate a strong response. My hypothosis is the model was under trained during the fine tuning process due to hardware limitations.
-Future work will include exploring other quantization methods, other libraries such as DeepSpeed and Unsloth, and continuing to learn more about LoRA,QLoRA, and PeFT.
+Future work will include exploring other quantization methods, other libraries such as DeepSpeed and Unsloth, and continuing to learn more about LoRA, QLoRA, and PeFT.
 
 The metrics used to evaluate the models explored in this work are bilingual evaluation understudy (BLEU), Recall-Oriented Understudy for Gisting Evaluation (ROUGE) - Longest Common Subsequence (LCS), and BERTScore.
 
